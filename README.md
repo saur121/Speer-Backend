@@ -1,4 +1,4 @@
-##               STEPS TO SETUP AND RUN THE PROJECT
+##            STEPS TO SETUP AND RUN THE PROJECT
 
 #### STEP - 1 
      Clone the Project From my Github Repository using the following command.
