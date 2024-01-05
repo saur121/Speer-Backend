@@ -30,7 +30,28 @@
 
 
 
-## SCREENSHOTS OF THE TESTED API
+## SCREENSHOTS OF THE API RESULT
 
 #### SIGN UP API
 [![Screenshot-1459.png](https://i.postimg.cc/y6TM0gd7/Screenshot-1459.png)](https://postimg.cc/pypcHdzS)
+
+#### LOGIN API
+[![Screenshot-1460.png](https://i.postimg.cc/Wz2grf46/Screenshot-1460.png)](https://postimg.cc/Hchr1zXV)
+
+#### CREATING A NEW NOTE
+[![Screenshot-1461.png](https://i.postimg.cc/8c9kDjxJ/Screenshot-1461.png)](https://postimg.cc/PvbnQrXT)
+
+#### GETTING LIST OF ALL THE NOTES
+[![Screenshot-1462.png](https://i.postimg.cc/GpmpFwPp/Screenshot-1462.png)](https://postimg.cc/qNW0rF5f)
+
+#### GETTING A NOTE BY ID
+[![Screenshot-1463.png](https://i.postimg.cc/0Nj86GxM/Screenshot-1463.png)](https://postimg.cc/kVrrzb2q)
+
+#### UPDATING A NOTE
+[![Screenshot-1464.png](https://i.postimg.cc/BZTGn7D7/Screenshot-1464.png)](https://postimg.cc/pyLS0ZsK)
+
+#### SEARCHING OF NOTES
+[![Screenshot-1465.png](https://i.postimg.cc/y8JQkWt6/Screenshot-1465.png)](https://postimg.cc/3kTCqr3z)
+
+#### SHARING OF A NOTE
+[![Screenshot-1466.png](https://i.postimg.cc/bY33gQjN/Screenshot-1466.png)](https://postimg.cc/fkScTSL6)
