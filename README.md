@@ -33,4 +33,4 @@
 ## SCREENSHOTS OF THE TESTED API
 
 #### SIGN UP API
-    [![Screenshot-1459.png](https://i.postimg.cc/y6TM0gd7/Screenshot-1459.png)](https://postimg.cc/pypcHdzS)
+[![Screenshot-1459.png](https://i.postimg.cc/y6TM0gd7/Screenshot-1459.png)](https://postimg.cc/pypcHdzS)
